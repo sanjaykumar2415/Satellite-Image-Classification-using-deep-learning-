@@ -1,1 +1,1 @@
-# Satellite-Image-Classification-using-deep-learning-
+# Satellite-Image-Classification-using-deep-learning
